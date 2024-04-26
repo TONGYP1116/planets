@@ -1,1 +1,2 @@
-this  is a trush
+\this  is a trush
+and i add a new line
